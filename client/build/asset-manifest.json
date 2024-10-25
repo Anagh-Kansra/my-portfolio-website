@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.82e92111.css",
+    "main.js": "/static/js/main.867ea54f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/ev-battery-estimator.png": "/static/media/ev-battery-estimator.3f437ffcca49763b50d6.png",
+    "static/media/portfolio_pic.jpg": "/static/media/portfolio_pic.d4bee6efe8fa803d6797.jpg",
+    "static/media/social-media-apps.jpg": "/static/media/social-media-apps.eb933d0ad0869c399cd8.jpg",
+    "static/media/Document-approval.jpg": "/static/media/Document-approval.98a5603a6246ee94ddeb.jpg",
+    "index.html": "/index.html",
+    "static/media/resume.txt": "/static/media/resume.4a4fbcd81525c9492e1b.txt",
+    "main.82e92111.css.map": "/static/css/main.82e92111.css.map",
+    "main.867ea54f.js.map": "/static/js/main.867ea54f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82e92111.css",
+    "static/js/main.867ea54f.js"
+  ]
+}
